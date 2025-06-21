@@ -1,0 +1,1 @@
+# manual-qr-to-binary
