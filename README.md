@@ -42,9 +42,9 @@ python qr_editor.py
 * Adjust the `N` and `CELL` constants at the top of `qr_editor.py` to change the grid size and cell dimensions.
 * Modify the `fill` parameters in the `create_rectangle` and `itemconfig` calls to use different colors.
 
-## License
-
-This project is licensed under the MIT License.
+## Demo
+![1](photos/1.png)
+![3](photos/3.png)
 
 ```
 ```
